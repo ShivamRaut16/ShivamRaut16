@@ -7,7 +7,7 @@
 "Crafting code is not just my profession, it's my passion, my art."  
 — Shivam Raut
 
-Hey there! I'm [Shivam Raut](link/to/linkedin), a detail-oriented and enthusiastic diploma student with a strong foundation in frontend development. I'm passionate about crafting innovative solutions to real-world problems. With a keen eye for detail and a love for clean, efficient code, I'm driven to deliver impactful projects that leave a lasting impression.
+Hey there! I'm [Shivam Raut](link/to/linkedin), a detail-oriented and enthusiastic  in frontend development. I'm passionate about crafting innovative solutions to real-world problems. With a keen eye for detail and a love for clean, efficient code, I'm driven to deliver impactful projects that leave a lasting impression.
 
 📧 **Reach out:** shivamraut.work@gmail.com  
 🌐 **Connect:** [LinkedIn](link/to/linkedin) | [GitHub](link/to/github)  
