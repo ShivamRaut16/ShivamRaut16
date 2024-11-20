@@ -19,7 +19,7 @@ Hey there! I'm [Shivam Raut](link/to/linkedin), a detail-oriented and enthusiast
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ShivamRaut16&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ShivamRaut16&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ShivamRaut16&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamRaut16&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
