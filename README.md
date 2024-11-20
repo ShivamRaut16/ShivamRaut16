@@ -15,25 +15,21 @@ Hey there! I'm [Shivam Raut](link/to/linkedin), a detail-oriented and enthusiast
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ShivamRaut16?cardType=octocat&theme=tokyonight&preferLogin=true)](https://git.io/awesome-stats-card)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamraut16&label=Profile%20views&color=0e75b6&style=flat" alt="shivamraut16" /> </p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ShivamRaut16&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ShivamRaut16&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamRaut16&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamraut16" alt="shivamraut16" /></a> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ShivamRaut16&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-<p align="left"> <a href="https://twitter.com/shivamraut1610" target="blank"><img src="https://img.shields.io/twitter/follow/shivamraut1610?logo=twitter&style=for-the-badge" alt="shivamraut1610" /></a> </p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ShivamRaut16&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shivamraut1610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivamraut1610" height="30" width="40" /></a>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=ShivamRaut16&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamraut16&show_icons=true&locale=en&layout=compact" alt="shivamraut16" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamraut16&show_icons=true&locale=en" alt="shivamraut16" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamraut16&" alt="shivamraut16" /></p>
-
-
-<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git Logo" width="40" height="40"> Git/GitHub
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Let's Connect!
 
