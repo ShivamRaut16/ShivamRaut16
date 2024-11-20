@@ -12,6 +12,9 @@ Hey there! I'm [Shivam Raut](link/to/linkedin), a detail-oriented and enthusiast
 📧 **Reach out:** shivamraut.work@gmail.com  
 🌐 **Connect:** [LinkedIn](link/to/linkedin) | [GitHub](link/to/github)  
 
+![GIF Description](https://raw.githubusercontent.com/ShivamRaut16/ShivamRaut16/refs/heads/main/GIThub1.gif)
+![GIF Description](https://raw.githubusercontent.com/ShivamRaut16/ShivamRaut16/refs/heads/main/GitHub2.gif)
+
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ShivamRaut16?cardType=octocat&theme=tokyonight&preferLogin=true)](https://git.io/awesome-stats-card)
 
 
